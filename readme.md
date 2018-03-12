@@ -26,3 +26,5 @@ The provided script does the following things:
 - The main ADDA logic happens in `tools/train_adda.py`.
 - The adversarial discriminator model definition is in `adda/adversary.py`.
 
+## By Louico
+- try add MINIST->USPS, USPS->MNIST, RGB->HHA(NYUD), office dataset.
